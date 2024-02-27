@@ -19,7 +19,8 @@ To use this calculator, follow these steps:
 Start performing calculations!
 
 <h2>Preview:</h2>
-![image](https://github.com/04amanrajj/Pro/assets/136756095/87f6d598-bd42-4bcf-8d29-26d5c5e5abd8)
+![Screenshot from 2024-02-27 13-08-25](https://github.com/04amanrajj/Pro/assets/136756095/57872899-237d-45e6-8238-d3c0569aab66)
+
 
 
 <h2>Contributing</h2>  
