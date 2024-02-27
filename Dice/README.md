@@ -26,11 +26,11 @@ Click the "Roll Dice" button to see the results displayed.
 <h2>Example</h2>
 Rolling 4 six-sided dice:
 Number of Dice: 4
-Results: 3, 6, 2, 5
-Total: 16
+Results: 4,1,5,1
 
 Preview:
-![image](https://github.com/04amanrajj/Pro/assets/136756095/5165617e-1687-4123-bd28-e51ec948b9ac)
+![image](https://github.com/04amanrajj/Pro/assets/136756095/0d43c4a1-fa2e-468e-91fc-ce082a440514)
+
 <h2>Contributing</h2>
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
