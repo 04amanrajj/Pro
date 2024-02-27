@@ -29,10 +29,6 @@ To explore any of these projects, follow these steps:
 
 If you have any suggestions, improvements, or new project ideas, feel free to open an issue or create a pull request. Contributions are welcome!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify any of the projects according to your needs.
-
 ---
 
 Thank you for checking out my Learning Projects Repository! If you have any questions or feedback, please don't hesitate to contact me. Happy coding! 🚀
