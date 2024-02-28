@@ -22,6 +22,9 @@ To use this stopwatch, follow these steps:
 - Click the "Stop" button to pause the stopwatch and record the elapsed time.
 - Click the "Reset" button to reset the stopwatch to zero.
 
+  Preview: ![image](https://github.com/04amanrajj/Pro/assets/136756095/558e03a6-39d9-4576-b90b-34c42d59f6c9)
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
