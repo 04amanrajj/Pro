@@ -1,6 +1,6 @@
 # Learning Projects Repository
 
-Welcome to my Learning Projects Repository!
+Welcome to my Learning Projects Repository
 
 This repository serves as a collection of basic projects I've created while learning programming concepts. Whether it's a simple dice roller, calculator, or other small projects, you'll find them all here.
 
