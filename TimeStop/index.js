@@ -11,7 +11,7 @@ function start(){
         timer= setInterval(update,10);
         isRunning=true
     }
-    
+
 }
 
 function stop(){
