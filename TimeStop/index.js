@@ -1,8 +1,8 @@
 
 const display=document.getElementById("time");
 let timer=null;
-let startTimer=0 ;
-let elapsedTime=0;
+let startTimer = 0 ;
+let elapsedTime = 0;
 let isRunning = false;
 
 function start(){
